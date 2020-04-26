@@ -1,0 +1,14 @@
+C:\Users\yarik\source\repos\Igra322\Igra322\bin\Debug\Igra322.exe.config
+C:\Users\yarik\source\repos\Igra322\Igra322\bin\Debug\Igra322.exe
+C:\Users\yarik\source\repos\Igra322\Igra322\bin\Debug\Igra322.pdb
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\Igra322.csprojAssemblyReference.cache
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\MainWindow.g.cs
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\App.g.cs
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\Igra322_MarkupCompile.cache
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\Igra322_MarkupCompile.lref
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\MainWindow.baml
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\Igra322.g.resources
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\Igra322.Properties.Resources.resources
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\Igra322.csproj.GenerateResource.cache
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\Igra322.exe
+C:\Users\yarik\source\repos\Igra322\Igra322\obj\Debug\Igra322.pdb
